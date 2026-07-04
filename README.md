@@ -45,16 +45,6 @@ This project is an interactive Power BI dashboard built using the Super Store Sa
 
 ---
 
-## 📷 Dashboard Preview
-
-### Sales Dashboard (dashboard.png)
-
-
-### Sales Forecast Dashboard (forecast.png)
-
-
----
-
 ## 📂 Files Included
 
 - Super Store Sales Dashboard.pbix
