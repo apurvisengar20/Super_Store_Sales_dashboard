@@ -43,12 +43,4 @@ This project is an interactive Power BI dashboard built using the Super Store Sa
 - California recorded the highest sales among all states.
 - The 15-day sales forecast indicated an overall upward trend with normal fluctuations.
 
----
 
-## 📂 Files Included
-
-- Super Store Sales Dashboard.pbix
-- Super Store Dataset.xlsx
-- dashboard.png
-- forecast.png
-- README.md
